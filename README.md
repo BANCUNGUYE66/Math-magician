@@ -11,7 +11,7 @@
   
   <br/>
 
-  <h3><b>Math Magician</b></h3>
+  <h3><b>Math-Magician</b></h3>
 
 </div>
 
