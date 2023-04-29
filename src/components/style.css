@@ -5,38 +5,45 @@
 }
 
 body {
-  background-color: rgb(57, 56, 56);
+  width: 100%;
+  height: 100vh;
+  margin: 0 auto;
+  background-color: rgb(255, 255, 255);
 }
 
 .calc {
   width: 100%;
   display: flex;
   justify-content: center;
+  padding: 0 30rem;
 }
 
 .calcWrapper {
-  display: flex;
-  flex-wrap: wrap;
-  width: 300px;
+  width: 100%;
+  margin-top: 8rem;
 }
 
 .buttonWrapper {
-  margin-top: 6rem;
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-template-rows: auto;
 }
 
-.buttonWrapper .zero {
-  width: 150px;
+.zero {
+  grid-column: 1 / span 2;
 }
 
 .buttonWrapper button {
-  width: 75px;
-  height: 50px;
+  width: 100%;
   font-size: 20px;
-  border: 0.1px solid rgb(211, 208, 208);
+  border: 3px solid rgb(211, 208, 208);
+  padding: 12px;
 }
 
 .buttonWrapper button:hover {
-  border: 1px solid orange;
+  /* border: 1px solid rgb(254, 254, 253); */
+  background-color: rgb(194, 196, 198);
 }
 
 .sign {
@@ -44,11 +51,12 @@ body {
   color: white;
 }
 
-.buttonWrapper p {
+.calcWrapper p {
   width: 100%;
   background-color: rgb(180, 178, 178);
   text-align: end;
-  padding: 20px 12px;
+  padding: 14px 12px;
   border-top: 1px solid rgb(251, 250, 250);
   color: white;
+  font-size: 20px;
 }
