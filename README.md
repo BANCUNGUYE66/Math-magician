@@ -47,6 +47,7 @@
 
 ## 🛠 Built With  VSCode  <a name="Built With VSCode"></a>
 
+### Tech Stack <a name="tech-stack"></a>
 
 ### HTML/CSS, javascript, Webpack <a name="tech-stack"></a>
 
