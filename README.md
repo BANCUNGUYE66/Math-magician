@@ -22,6 +22,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
+     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
@@ -49,6 +50,42 @@
 ## 🛠 Built With  VSCode  <a name="Built With VSCode"></a>
 
 ### HTML/CSS, javascript, Webpack <a name="tech-stack"></a>
+
+>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">HTML</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Styling</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">CSS</a></li>
+  </ul>
+</details>
+<details>
+  <summary>React</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">CSS</a></li>
+  </ul>
+</details>
+<details>
+  <summary>Functionality</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">CSS</a></li>
+  </ul>
+</details>
+
+
+
+
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- LIVE DEMO -->
