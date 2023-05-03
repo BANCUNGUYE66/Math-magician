@@ -47,39 +47,14 @@
 
 ## 🛠 Built With  VSCode  <a name="Built With VSCode"></a>
 
+- React
+- Javascript
+- Html5
+- Css3
+
 ### Tech Stack <a name="tech-stack"></a>
 
 ### HTML/CSS, javascript, Webpack <a name="tech-stack"></a>
-
->
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">HTML</a></li>
-  </ul>
-</details>
-
-### Key Features <a name="key-features"></a>
-
-<details>
-  <summary>Styling</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">CSS</a></li>
-  </ul>
-</details>
-<details>
-  <summary>React</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">CSS</a></li>
-  </ul>
-</details>
-<details>
-  <summary>Functionality</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">CSS</a></li>
-  </ul>
-</details>
 
 
 
@@ -191,8 +166,6 @@ To run tests, run the following command:
 
 > I'll add the following section to the webpage.
 
-- [ ] **basic page structure**
-- [ ] **send and receive data from API**
 - [ ] **final touches**
 
 
