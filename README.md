@@ -43,11 +43,10 @@
 
 ## 📖 Math Magician <a name="about-project"></a>
 
-
-
-
+**[MATH-MAGICIAN]** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to Make simple calculations and Read a random math-related quote.
 
 ## 🛠 Built With  VSCode  <a name="Built With VSCode"></a>
+
 
 ### HTML/CSS, javascript, Webpack <a name="tech-stack"></a>
 
@@ -59,6 +58,8 @@
     <li><a href="https://reactjs.org/">HTML</a></li>
   </ul>
 </details>
+
+### Key Features <a name="key-features"></a>
 
 <details>
   <summary>Styling</summary>
