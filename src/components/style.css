@@ -4,6 +4,39 @@
   box-sizing: border-box;
 }
 
+.nav {
+  background-color: rgb(59, 59, 59);
+  color: rgb(88, 88, 88);
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+}
+
+.nav .logo {
+  font-size: 28px;
+}
+
+.nav a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+
+.nav li.active {
+  background-color: #555;
+}
+
+.nav li:hover {
+  text-decoration: underline;
+  transition: 3s ease-in;
+}
+
 body {
   width: 100%;
   height: 100vh;
@@ -15,7 +48,6 @@ body {
   width: 100%;
   display: flex;
   justify-content: center;
-  padding: 0 30rem;
 }
 
 .calcWrapper {
@@ -24,10 +56,17 @@ body {
 }
 
 .buttonWrapper {
-  width: 100%;
+  width: 70%;
   display: grid;
   grid-template-columns: auto auto auto auto;
   grid-template-rows: auto;
+  box-shadow:
+    0 4px  4px  rgba(0, 0, 0, 0.1),
+    0 1px  6px  rgba(0, 0, 0, 0.05),
+    0 8px  8px  rgba(0, 0, 0, 0.1),
+    0 16px 16px rgba(0, 0, 0, 0.1),
+    8px 32px 32px rgba(0, 0, 0, 0.15),
+    8px 64px 64px rgba(0, 0, 0, 0.15);
 }
 
 .zero {
@@ -37,26 +76,26 @@ body {
 .buttonWrapper button {
   width: 100%;
   font-size: 20px;
-  border: 3px solid rgb(211, 208, 208);
+  border: none;
+  background-color: aliceblue;
   padding: 12px;
 }
 
 .buttonWrapper button:hover {
-  /* border: 1px solid rgb(254, 254, 253); */
-  background-color: rgb(194, 196, 198);
+  background-color: rgb(164, 164, 164);
 }
 
-.sign {
+.buttonWrapper .sign {
   background-color: orange;
   color: white;
 }
 
 .calcWrapper p {
-  width: 100%;
-  background-color: rgb(180, 178, 178);
+  width: 70%;
+  background-color: rgb(203, 203, 203);
   text-align: end;
   padding: 14px 12px;
   border-top: 1px solid rgb(251, 250, 250);
-  color: white;
+  color: rgb(27, 27, 50);
   font-size: 20px;
 }
