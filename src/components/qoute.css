@@ -7,8 +7,11 @@
 
 .quote_container p {
   margin: 1rem;
+  color: #333;
 }
 
 .qoute_paragraph p {
-  margin: 1rem;
+  margin: 15rem 1rem;
+  color: #333;
+  font-size: 22px;
 }

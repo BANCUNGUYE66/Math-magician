@@ -1,0 +1,36 @@
+body {
+  background-color: aliceblue;
+}
+
+.home_container {
+  margin: 6rem;
+}
+
+.home_container h1 {
+  font-size: 48px;
+}
+
+.home_container p {
+  margin-top: 3rem;
+  font-size: 24px;
+  color: rgb(27, 27, 50);
+}
+
+.page_container {
+  width: 100%;
+  display: flex;
+  gap: 20px;
+}
+
+.qoute_wrapper {
+  width: 100%;
+}
+
+.qoute_wrapper h1 {
+  margin-top: 12rem;
+  margin-left: 5rem;
+}
+
+.digit_wrapper {
+  width: 100%;
+}
