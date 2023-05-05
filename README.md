@@ -68,7 +68,7 @@
 
  ## 🚀 Live Demo <a name="live-demo"></a> 
 
-<!-- [Live Demo Link](https://BANCUNGUYE66.github.io/Math-magician/) -->
+[Live Demo Link](https://bancunguyeaimable-calculator.onrender.com)
 
 
 
